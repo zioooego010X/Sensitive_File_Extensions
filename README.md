@@ -1,0 +1,2 @@
+# Sensitive_File_Extensions
+Sensitive_File_Extensions names
